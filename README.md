@@ -42,23 +42,10 @@ Mocking up web apps with <b>R-Ts-T</b><sup><em>(speed)</em></sup><br>
 
 [Create a repo from this template on GitHub](https://github.com/kazim-kayhan/react-ts-tailwind/generate).
 
-### Clone to local
-
-If you prefer to do it manually with the cleaner git history
-
-```bash
-npx degit kazim-kayhan/react-ts-tailwind your-project-name
-cd your-project-name
-yarn # If you don't have yarn installed, run: npm install -g yarn
-```
-
 ## Checklist
 
 When you use this template, try follow the checklist to update your info properly
 
-- [ ] Rename `name` and `author` fields in `package.json`
-- [ ] Change the author name in `LICENSE`
-- [ ] Change the title in `index.html`
 - [ ] Change the favicon in `public`
 - [ ] Modify the manifest in `public`
 - [ ] Clean up the README's

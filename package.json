@@ -1,5 +1,5 @@
 {
-  "name": "react-ts-tailwind",
+  "name": "small-business-website",
   "version": "1.0.0",
   "description": "This starter template for React (TypeScript) with Vite provides support for TailwindCSS with CSS-Modules and is pre-configured with Jest and @react/testing-library, ESLint, Prettier, Husky, Commit-lint, and an Atomic Design approach for components.",
   "homepage": "https://github.com/kazim-kayhan/react-ts-tailwind#readme",
@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/kazim-kayhan/react-ts-tailwind.git"
   },
-  "author": "Kazim Kayhan <mail4kazim.kayhan@gmail.com>",
+  "author": "Sandra Arato",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kazim-kayhan/react-ts-tailwind/issues"
